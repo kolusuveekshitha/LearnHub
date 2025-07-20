@@ -1,0 +1,1 @@
+LearnHub is an intelligent and user-friendly online learning platform designed to make education accessible, engaging, and personalized. The platform serves as a one-stop hub for learners of all ages to explore courses, attend live sessions, interact with mentors, and track their progress—all in one place.
